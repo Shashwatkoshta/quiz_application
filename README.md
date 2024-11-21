@@ -24,4 +24,5 @@ Enhance UI/UX with a graphical interface.
 
 # Contact
 GitHub: Shashwatkoshta
+
 Email: shashwatsk44@gmail.com
